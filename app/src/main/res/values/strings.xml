@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Finance App</string>
+    <string name="fab_content_desc">Fazer novo lançamento</string>
+</resources>
